@@ -6,7 +6,7 @@ January 2026
 
 Top-tier VCs and tech leaders keep moving to Austin. But startup founders keep leaving. This document asks: can the right founder housing help fix the mismatch?
 
-Startup ecosystems need critical mass—dense networks where serendipitous collisions happen. The right buildings in the right places can accelerate the social graph that will make Austin a tech hub work.
+Startup ecosystems need critical mass—dense networks where serendipitous collisions happen. The right buildings in the right places can accelerate the social graph that will make the Austin tech hub work.
 
 **Inside:**
 - Why founders keep leaving for San Francisco
